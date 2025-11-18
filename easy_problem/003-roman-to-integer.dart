@@ -32,8 +32,3 @@ class Solution {
   }
 }
 
-void main() {
-  Solution s = Solution();
-  int y = s.romanToInt("III");
-  print(y);
-}
